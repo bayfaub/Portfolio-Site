@@ -1,0 +1,13 @@
+.full-title{
+    padding-top: .5rem;
+    padding-bottom: 1rem;
+    font-size: 1.1rem;
+    text-align:center;
+}
+.container{
+    max-width: 720px;
+}
+body{
+color: #212529;
+text-align:center;
+}
